@@ -1,0 +1,7 @@
+experiment on converting pytorch model to tensorrt.
+
+# do 
+
+* use monodepth2
+* put convert_to_tensorrt.py file in monodepth2/ directory
+* run 'python3 convert_to_tensorrt.py'
